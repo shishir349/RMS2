@@ -1,1 +1,1 @@
-# RMS2
+# Restaurant Management System
